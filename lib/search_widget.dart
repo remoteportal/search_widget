@@ -1,7 +1,7 @@
 library search_widget;
 
 import 'package:flutter/material.dart';
-import 'package:flutter_keyboard_visibility/flutter_keyboard_visibility.dart';
+//import 'package:flutter_keyboard_visibility/flutter_keyboard_visibility.dart';
 
 import 'widget/no_item_found.dart';
 
@@ -123,13 +123,13 @@ class MySingleChoiceSearchState<T> extends State<SearchWidget<T>> {
         }
       }
     });
-    KeyboardVisibilityNotification().addNewListener(
-      onChange: (visible) {
-        if (!visible) {
-          _focusNode.unfocus();
-        }
-      },
-    );
+//    KeyboardVisibilityNotification().addNewListener(
+//      onChange: (visible) {
+//        if (!visible) {
+//          _focusNode.unfocus();
+//        }
+//      },
+//    );
   }
 
   @override

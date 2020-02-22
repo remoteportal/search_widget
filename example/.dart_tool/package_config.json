@@ -62,12 +62,6 @@
       "languageVersion": "2.2"
     },
     {
-      "name": "flutter_keyboard_visibility",
-      "rootUri": "file:///C:/Users/pete/AppData/Roaming/Pub/Cache/hosted/pub.dartlang.org/flutter_keyboard_visibility-0.7.0",
-      "packageUri": "lib/",
-      "languageVersion": "2.2"
-    },
-    {
       "name": "flutter_test",
       "rootUri": "file:///E:/Src/Flutter/packages/flutter_test",
       "packageUri": "lib/",
@@ -188,7 +182,7 @@
       "languageVersion": "2.1"
     }
   ],
-  "generated": "2020-02-22T18:19:16.440677Z",
+  "generated": "2020-02-22T18:24:52.980926Z",
   "generator": "pub",
   "generatorVersion": "2.7.0"
 }
